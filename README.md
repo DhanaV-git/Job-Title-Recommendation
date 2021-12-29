@@ -55,10 +55,6 @@ Regarding “what next” means. We were planning on modifying the problem state
 To compute the probability of a person getting into a certain company, we plan to use softmax activation function, which would give us the probability for each company. The class having the highest probability is the company that this person most likely might get into.
 We plan to use DNN multiclass classification techniques.
 
-
-
-
-
 **`What we have done so far:`**
 
 We have analyzed the dataset, and attributes are, category(HR, designing, management etc), linkedIn profile URL, profile picture, description( position, role),  experience(company name, duration, title, employment date), name, position (current position, company name), location, skills.
